@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Cat House\Cat House\bin\Debug\Cat House.exe.config
+C:\Users\Admin\source\repos\Cat House\Cat House\bin\Debug\Cat House.exe
+C:\Users\Admin\source\repos\Cat House\Cat House\bin\Debug\Cat House.pdb
+C:\Users\Admin\source\repos\Cat House\Cat House\obj\Debug\Cat House.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Cat House\Cat House\obj\Debug\Cat House.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Cat House\Cat House\obj\Debug\Cat House.exe
+C:\Users\Admin\source\repos\Cat House\Cat House\obj\Debug\Cat House.pdb
