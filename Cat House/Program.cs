@@ -30,11 +30,7 @@ namespace Cat_House
                 catHouse.AddCat(cat1);
                 catHouse.AddCat(cat2);
                 catHouse.AddCat(cat3);
-                catHouse.AddCat(cat4);
-
-                // Cat removedCat = catHouse.RemoveByNickName(cat1.NickName);//works
-                // removedCat.Show();
-                //Console.WriteLine();
+                catHouse.AddCat(cat4);               
 
                 Cat cat5 = new Cat("Nicki", 4, 500, 90, "Female");
                 catHouse.AddCat(cat5);
@@ -53,6 +49,10 @@ namespace Cat_House
 
                 petShop.Show();
                 Console.WriteLine($"All Cats Price in Cat Houses: {petShop.GetCatsPriceInTheCatHouses()}");
+                
+                // Cat removedCat = catHouse.RemoveByNickName(cat1.NickName);//works
+                // removedCat.Show();
+                //Console.WriteLine();
             }
             catch (InvalidOperationException content)
             {
